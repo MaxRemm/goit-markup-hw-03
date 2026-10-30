@@ -16,6 +16,7 @@
   letter-spacing: 0.03em;
   color: #f4f4fd;
   margin-bottom: 16px;
+  display: block;
 }
 
 .footer-text {
