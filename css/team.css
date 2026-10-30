@@ -30,3 +30,25 @@
 .team-text {
   letter-spacing: 0.02em;
 }
+
+/* .tm {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  flex-direction: row;
+  gap: 72px;
+}
+ */
+
+.tm-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 24px;
+}
+
+.team-title {
+  margin-bottom: 72px;
+}

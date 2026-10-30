@@ -19,9 +19,13 @@
 
 .footer-text {
   letter-spacing: 0.02em;
+  max-width: 264px;
 }
 
 /* line-height: 1.33333;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #f4f4fd; */
+.footer-cont {
+  padding: 0 15px;
+}

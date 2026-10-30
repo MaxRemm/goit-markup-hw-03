@@ -17,3 +17,19 @@
 .portfolio-text {
   letter-spacing: 0.02em;
 }
+
+/* .port-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  
+  gap: 24px;
+ 
+}
+ */
+
+.port-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
