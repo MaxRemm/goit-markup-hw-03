@@ -32,8 +32,6 @@
   display: flex;
   align-items: center;
   margin-right: 76px;
-  /* width: 115px;
-  height: 24px; */
 }
 
 .nav-link {
@@ -49,13 +47,6 @@
 
 .head {
   display: flex;
-  /*  border-bottom: 1px solid #e7e9fc; */
-  /* height: 72px; */
-  /* min-height: 72px;
-  padding: 24px 0; */
-  padding: 0 15px;
-
-  /*  height: 72px; */
 }
 .adres {
   display: flex;
